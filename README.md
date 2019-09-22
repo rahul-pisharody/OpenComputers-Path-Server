@@ -2,7 +2,7 @@
 A server based robot pathfinding system created for the OpenComputers mod (Minecraft)
 
 Server uses A* algorithm to find shortest path.
-Requirements: Geolyzer(to fill the 3d map; adjust variables as needed), Hologram Tier 2 (remove code if visualization not needed), wireless connectivity (on the network and the robot) and lots of memory.
+Requirements: Geolyzer(to fill the 3d map; adjust variables as needed), Hologram Tier 2 (remove code if visualization not needed), wireless connectivity (on the network and the robot).
 
 Be sure to change the variable <code>path_server</code> in /lib/path.lua of the robot to the address of your path server's modem.
 
